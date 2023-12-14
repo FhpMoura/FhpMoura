@@ -1,7 +1,7 @@
 # 👩‍💻 Moura's Developer Profile 👨‍💻
 
 ## About Me
-Hey there! 👋 I'm Moura, a software developer with a passion for automation and making things work seamlessly. I thrive on coding in Python and Visual Basic (.vba/.vbs), crafting solutions that simplify tasks and enhance efficiency.
+Hey there! 👋 I'm Moura, a software developer with a passion for automation and making things work seamlessly. I thrive on coding in Python, crafting solutions that simplify tasks and enhance efficiency.
 
 ### Work Experience
 - **Intern at COPEL Distribuição** 
